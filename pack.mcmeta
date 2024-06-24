@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "supported_formats": [
+      9,
+      41
+    ],
+    "pack_format": 15,
+    "description": "neko.smp datares"
+  }
+}

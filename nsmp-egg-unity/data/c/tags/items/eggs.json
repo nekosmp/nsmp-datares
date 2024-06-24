@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:turtle_egg",
+    "minecraft:sniffer_egg",
+    "minecraft:dragon_egg",
+    "species:wraptor_egg",
+    "sleep_tight:bedbug_eggs",
+    "naturalist:tortoise_egg",
+    "naturalist:alligator_egg",
+    "naturalist:snail_eggs",
+    "naturalist:duck_egg"
+  ]
+}
