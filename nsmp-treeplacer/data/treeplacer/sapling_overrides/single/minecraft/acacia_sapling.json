@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": {
     "wythers:wooded_savanna": "wythers:vegetation/configured_tree/forest_acacia"
   }
