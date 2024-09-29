@@ -1,6 +1,7 @@
 {
   "replace": true,
   "values": {
+    "treeplacer:all_biomes": "treeplacer:dead_bush",
     "wythers:wooded_savanna": "wythers:vegetation/configured_tree/red_ivorywood"
   }
 }
