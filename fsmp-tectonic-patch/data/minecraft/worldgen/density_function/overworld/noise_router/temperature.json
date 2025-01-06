@@ -13,7 +13,7 @@
           "type": "minecraft:mul",
           "argument1": 0.0001,
           "argument2": {
-            "type": "nsmp-worldgen:x_sub_z"
+            "type": "fsmp-worldgen:x_add_z"
           }
         }
       }
@@ -24,7 +24,7 @@
     "argument1": 0.35,
     "argument2": {
       "type": "minecraft:shifted_noise",
-      "noise": "minecraft:vegetation",
+      "noise": "minecraft:temperature",
       "shift_x": "minecraft:shift_x",
       "shift_y": 0.0,
       "shift_z": "minecraft:shift_z",
