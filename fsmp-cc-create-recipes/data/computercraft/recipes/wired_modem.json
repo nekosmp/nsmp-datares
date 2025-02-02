@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {"#": {"tag": "c:iron_plates"}, "R": {"item": "create:electron_tube"}},
+  "pattern": ["###", "#R#", "###"],
+  "result": {"item": "computercraft:wired_modem"},
+  "show_notification": true
+}

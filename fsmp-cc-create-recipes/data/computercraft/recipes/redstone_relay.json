@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "C": {"item": "computercraft:wired_modem"},
+    "R": {"item": "create:electron_tube"},
+    "S": {"tag": "c:iron_plates"}
+  },
+  "pattern": ["SRS", "RCR", "SRS"],
+  "result": {"item": "computercraft:redstone_relay"},
+  "show_notification": true
+}

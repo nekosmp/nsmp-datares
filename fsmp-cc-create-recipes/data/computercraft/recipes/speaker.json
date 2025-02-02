@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {"tag": "c:iron_plates"},
+    "N": {"item": "minecraft:note_block"},
+    "R": {"item": "create:electron_tube"}
+  },
+  "pattern": ["###", "#N#", "#R#"],
+  "result": {"item": "computercraft:speaker"},
+  "show_notification": true
+}

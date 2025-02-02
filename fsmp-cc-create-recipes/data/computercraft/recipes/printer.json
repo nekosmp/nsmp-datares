@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {"#": {"tag": "c:iron_plates"}, "D": {"tag": "c:dyes"}, "R": {"item": "create:electron_tube"}},
+  "pattern": ["###", "#R#", "#D#"],
+  "result": {"item": "computercraft:printer"},
+  "show_notification": true
+}
