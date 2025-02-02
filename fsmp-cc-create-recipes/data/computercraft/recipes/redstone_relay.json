@@ -3,7 +3,7 @@
   "category": "redstone",
   "key": {
     "C": {"item": "computercraft:wired_modem"},
-    "R": {"item": "create:electron_tube"},
+    "R": {"tag": "c:redstone_dusts"},
     "S": {"tag": "c:iron_plates"}
   },
   "pattern": ["SRS", "RCR", "SRS"],
