@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "O": {
+      "item": "computercraft:wireless_modem_advanced"
+    },
+    "c": {
+      "item": "peripheralworks:peripheral_casing"
+    },
+    "d": {
+      "item": "create:electron_tube"
+    },
+    "i": {
+      "tag": "c:diamonds"
+    }
+  },
+  "pattern": [
+    "ddd",
+    "dOd",
+    "ici"
+  ],
+  "result": {
+    "item": "peripheralworks:peripheral_proxy"
+  }
+}

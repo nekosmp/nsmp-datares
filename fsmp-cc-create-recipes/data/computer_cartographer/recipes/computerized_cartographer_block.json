@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SCS",
+    "SRS"
+  ],
+  "key": {
+    "S": {
+      "tag": "c:iron_plates"
+    },
+    "C": {
+      "item": "minecraft:cartography_table"
+    },
+    "R": {
+      "item": "create:electron_tube"
+    }
+  },
+  "result": {
+    "item": "computer_cartographer:computerized_cartographer"
+  }
+}

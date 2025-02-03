@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bbb",
+        "srs"
+    ],
+    "key": {
+        "b": {
+            "tag": "minecraft:buttons"
+        },
+        "s": {
+            "tag": "c:iron_plates"
+        },
+        "r": {
+            "item": "create:electron_tube"
+        }
+    },
+    "result": {
+        "item": "ducky-periphs:keyboard_block"
+    }
+}

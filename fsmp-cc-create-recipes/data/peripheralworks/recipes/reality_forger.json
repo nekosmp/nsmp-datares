@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "tag": "c:blue_dyes"
+    },
+    "C": {
+      "item": "peripheralworks:peripheral_casing"
+    },
+    "D": {
+      "item": "create:electron_tube"
+    },
+    "P": {
+      "item": "computercraft:printer"
+    }
+  },
+  "pattern": [
+    "DPD",
+    "BCB",
+    " D "
+  ],
+  "result": {
+    "item": "peripheralworks:reality_forger"
+  }
+}

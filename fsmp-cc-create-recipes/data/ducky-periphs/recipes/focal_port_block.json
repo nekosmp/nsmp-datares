@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EAE",
+        "YDY",
+        "SGS"
+    ],
+    "key": {
+        "E": {
+            "tag": "hexcasting:edified_planks"
+        },
+        "A": {
+            "item": "hexcasting:charged_amethyst"
+        },
+        "Y":{
+            "item": "minecraft:amethyst_shard"
+        },
+        "D":{
+            "item": "computercraft:disk_drive"
+        },
+        "S":{
+            "item": "hexcasting:slate_block"
+        },
+        "G":{
+            "tag": "c:gold_plates"
+        }
+    },
+    "result": {
+        "item": "ducky-periphs:focal_port_block"
+    }
+}

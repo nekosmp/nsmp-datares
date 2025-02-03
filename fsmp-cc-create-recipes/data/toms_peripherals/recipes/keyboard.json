@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"bbb",
+    "bbb",
+    "srs"
+  ],
+  "key": {
+  	"b": {
+      "tag": "minecraft:buttons"
+    },
+    "r": {
+      "item": "create:electron_tube"
+    },
+    "s": {
+      "tag": "c:iron_plates"
+    }
+  },
+  "result": {
+    "item": "toms_peripherals:keyboard"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "farmersdelight:fried_egg",
+    "naturalist:cooked_egg",
+    "species:cracked_wraptor_egg",
+    "mynethersdelight:boiled_egg"
+  ]
+}

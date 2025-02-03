@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "tag": "c:iron_plates"
+    },
+    "D": {
+      "tag": "c:diamonds"
+    },
+    "O": {
+      "item": "create:electron_tube"
+    }
+  },
+  "pattern": [
+    "D O",
+    " B ",
+    "D O"
+  ],
+  "result": {
+    "count": 4,
+    "item": "peripheralworks:entity_card"
+  }
+}

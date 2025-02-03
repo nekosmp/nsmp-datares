@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"sms",
+    "cCc",
+    "sRs"
+  ],
+  "key": {
+  	"s": {
+      "tag": "c:iron_plates"
+    },
+    "c": {
+      "item": "minecraft:comparator"
+    },
+    "C": {
+      "item": "create:precision_mechanism"
+    },
+    "R": {
+      "item": "create:electron_tube"
+    },
+    "m": {
+      "item": "computercraft:wired_modem"
+    }
+  },
+  "result": {
+    "item": "toms_peripherals:wdt"
+  }
+}

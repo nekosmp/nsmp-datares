@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"IbI",
+    "rcr",
+    "ICI"
+  ],
+  "key": {
+  	"I": {
+      "tag": "c:iron_plates"
+    },
+    "b": {
+      "item": "create:propeller"
+    },
+    "c": {
+      "item": "toms_peripherals:gpu_chip"
+    },
+    "C": {
+      "tag": "c:copper_plates"
+    },
+    "r": {
+      "item": "create:electron_tube"
+    }
+  },
+  "result": {
+    "item": "toms_peripherals:gpu"
+  }
+}

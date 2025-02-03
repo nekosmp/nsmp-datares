@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "O": {
+      "item": "minecraft:observer"
+    },
+    "c": {
+      "item": "peripheralworks:peripheral_casing"
+    },
+    "d": {
+      "item": "create:electron_tube"
+    },
+    "i": {
+      "tag": "c:iron_ingots"
+    }
+  },
+  "pattern": [
+    "ddd",
+    "dOd",
+    "ici"
+  ],
+  "result": {
+    "item": "peripheralworks:remote_observer"
+  }
+}

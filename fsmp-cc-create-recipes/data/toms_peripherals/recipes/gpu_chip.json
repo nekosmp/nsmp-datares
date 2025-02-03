@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "toms_peripherals:gpu_chip_raw"
+    }
+  ],
+  "results": [
+    {
+      "item": "toms_peripherals:gpu_chip"
+    }
+  ]
+}

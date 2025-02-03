@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "  L",
+        "LLL",
+        "LSL"
+    ],
+    "key": {
+        "L": {
+            "item": "minecraft:dried_kelp"
+        },
+        "S": {
+            "item": "naturalist:duck_egg"
+        }
+    },
+    "result": {
+        "item": "ducky-periphs:duck_block"
+    }
+}

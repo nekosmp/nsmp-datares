@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "tag": "c:black_dye"
+    },
+    {
+      "item": "create:brass_casing"
+    }
+  ],
+  "results": [
+    {
+      "item": "peripheralworks:peripheral_casing"
+    }
+  ]
+}

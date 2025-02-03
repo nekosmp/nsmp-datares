@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "TTT",
+        "TST",
+        "TRT"
+    ],
+    "key": {
+        "T": {
+            "tag": "c:iron_plates"
+        },
+        "S": {
+            "item": "minecraft:sculk_sensor"
+        },
+        "R": {
+            "item": "create:electron_tube"
+        }
+    },
+    "result": {
+        "item": "ducky-periphs:sculkophone_block"
+    }
+}
