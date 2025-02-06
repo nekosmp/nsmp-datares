@@ -2,10 +2,10 @@
   "type": "create:item_application",
   "ingredients": [
     {
-      "tag": "c:black_dye"
+      "item": "create:brass_casing"
     },
     {
-      "item": "create:brass_casing"
+      "tag": "c:black_dye"
     }
   ],
   "results": [
